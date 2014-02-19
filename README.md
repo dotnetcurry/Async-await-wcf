@@ -1,13 +1,9 @@
 Async and Await In WCF
 ======================
 
-An application demonstrating Async and Await in WCF Services
+An application demonstrating Async and Await in WCF Services By [Mahesh Sabnis](http://www.dotnetcurry.com/Author.aspx?AuthorName=Mahesh%20Sabnis)
 
-By
-
-[Mahesh Sabnis](http://www.twitter.com/maheshdotnet)
-
-Read the related article on [http://www.devcurry.com](http://www.devcurry.com)
+Read the related article online at [http://www.dotnetcurry.com/ShowArticle.aspx?ID=983](http://www.dotnetcurry.com)
 
 More .Net Articles at [www.dotnetcurry.com](http://www.dotnetcurry.com)
 
